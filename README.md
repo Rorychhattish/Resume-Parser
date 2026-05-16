@@ -171,10 +171,10 @@ mvn clean package
 - If the frontend cannot reach the backend, confirm the backend is running on port `8080`.
 - If PDF parsing fails, test with a text-based PDF instead of a scanned image-only PDF.
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-## Creator
+## 👨‍💻 Creator
 
-Powered by Chhattish. This tool was created by Chhattish, a student passionate about cybersecurity, network programming, and ethical hacking. Feel free to star this repo if you like it.
+Powered by Chhattish. This tool was created by Chhattish, a student passionate about cybersecurity, network programming, blockchain developer and ethical hacking. Feel free to ⭐ star this repo if you like it.
